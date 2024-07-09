@@ -30,7 +30,7 @@ def find_interval_nums(file_path):
 
                 match = re.search(pattern, line)
                 if match:
-                    #print(int(match.group(1)))
+                    # print(int(match.group(1)))
                     largest_numbers_array[curr_item] = int(match.group(1))
 
         return largest_numbers_array
