@@ -1,3 +1,8 @@
+# The Collection
+
+A collection of tools and documentation I've created while using the Montreal Forced Aligner and related activities (e.g., data preparation, troubleshooting etc.).
+
+
 ## Fixing 'Interval' Sizes in PRAAT TextGrids: Size to Number Mistmatch Problem
 
 
